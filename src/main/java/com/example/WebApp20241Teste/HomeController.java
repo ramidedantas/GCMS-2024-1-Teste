@@ -29,6 +29,6 @@ public class HomeController {
 
 	@RequestMapping("/RASD")
 	public @ResponseBody String greetingHotfix() {
-		return "Hello, RASD!!!!!";
+		return "Hello, RASD!!!!!!!";
 	}
 }
